@@ -1,0 +1,11 @@
+/home/alex/Projects/WEB3/SOLANA/MEV-Sandwich-Bot/target/debug/deps/libcargo_metadata-05556ccca366dd69.rmeta: /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/lib.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/dependency.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/diagnostic.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/errors.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/messages.rs
+
+/home/alex/Projects/WEB3/SOLANA/MEV-Sandwich-Bot/target/debug/deps/libcargo_metadata-05556ccca366dd69.rlib: /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/lib.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/dependency.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/diagnostic.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/errors.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/messages.rs
+
+/home/alex/Projects/WEB3/SOLANA/MEV-Sandwich-Bot/target/debug/deps/cargo_metadata-05556ccca366dd69.d: /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/lib.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/dependency.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/diagnostic.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/errors.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/messages.rs
+
+/home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/lib.rs:
+/home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/dependency.rs:
+/home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/diagnostic.rs:
+/home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/errors.rs:
+/home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.18.1/src/messages.rs:

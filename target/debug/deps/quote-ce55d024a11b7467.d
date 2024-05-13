@@ -1,0 +1,11 @@
+/home/alex/Projects/WEB3/SOLANA/MEV-Sandwich-Bot/target/debug/deps/libquote-ce55d024a11b7467.rmeta: /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/lib.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/ext.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/format.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/ident_fragment.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/to_tokens.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/runtime.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/spanned.rs
+
+/home/alex/Projects/WEB3/SOLANA/MEV-Sandwich-Bot/target/debug/deps/quote-ce55d024a11b7467.d: /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/lib.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/ext.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/format.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/ident_fragment.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/to_tokens.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/runtime.rs /home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/spanned.rs
+
+/home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/lib.rs:
+/home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/ext.rs:
+/home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/format.rs:
+/home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/ident_fragment.rs:
+/home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/to_tokens.rs:
+/home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/runtime.rs:
+/home/alex/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.35/src/spanned.rs:
