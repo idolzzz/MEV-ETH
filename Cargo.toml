@@ -34,7 +34,7 @@ rlp = { version = "0.5", features = ["derive"] }
 
 foundry-evm-mini = { git = "https://github.com/solidquant/foundry-evm-mini.git" }
 
-revm = { version = "9.0.0", default-features = false, features = [
+revm = { version = "3.0.0", default-features = false, features = [
   "std",
   "serde",
   "memory_limit",

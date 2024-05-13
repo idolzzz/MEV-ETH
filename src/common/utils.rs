@@ -52,7 +52,7 @@ pub fn calculate_next_block_base_fee (
 ) -> U256 {
     let gas_used = gas_used;
     let mut target_gas_used = gas_limit / 2;
-    targer_gas_used = if target_gas_used == U256::zero() {
+    target_gas_used = if target_gas_used == U256::zero() {
         U256::one()
     } else {
         target_gas_used
